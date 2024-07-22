@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+![redux-toolkit](https://github.com/user-attachments/assets/8b320d88-ee5b-4fb4-9790-153353c589e3)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
