@@ -14,14 +14,14 @@ export default function App() {
   return (
     <Container>
       <Typography variant="h4">React Redux-toolkit</Typography>
-        <br></br>
-        <Button variant="contained" color="secondary" onClick={() => handleResetClick()} className="button is-danger">
-          Reset Both Playlists
-        </Button>
-        <hr />
-        <MoviePlaylist />
-        <hr />
-        <SongPlaylist />
-    </Container>
+      <br></br>
+      <Button variant="contained" color="secondary" onClick={() => handleResetClick()} className="button is-danger">
+        Reset Both Playlists
+      </Button>
+      <hr />
+      <MoviePlaylist />
+      <hr />
+      <SongPlaylist />
+        </Container>
   );
 }
